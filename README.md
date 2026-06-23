@@ -223,7 +223,8 @@ Issues: GitHub Issues
 
 Discussions: GitHub Discussions
 
-Email: your-email@xclusivekitng.com
+Email: xclusivekitng@gmail.com
+Website: https://tgpbaze.com
 
 ⭐ Show Your Support
 If this repository helped you, please give it a star ⭐ and share it with your network!
