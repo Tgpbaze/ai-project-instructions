@@ -223,7 +223,7 @@ Issues: GitHub Issues
 
 Discussions: GitHub Discussions
 
-Email: your-email@example.com
+Email: your-email@xclusivekitng.com
 
 ⭐ Show Your Support
 If this repository helped you, please give it a star ⭐ and share it with your network!
