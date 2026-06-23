@@ -2,10 +2,6 @@
 AI Project Instructions is a comprehensive collection of professional development standards, guidelines, and best practices designed to transform any AI agent (OpenCode, Cursor, Windsurf, GitHub Copilot, etc.) into a consistently professional developer across all project types.
 
 AI Project Instructions - Professional Development Standards
-https://img.shields.io/github/stars/yourusername/ai-project-instructions
-https://img.shields.io/github/issues/yourusername/ai-project-instructions
-https://img.shields.io/github/license/yourusername/ai-project-instructions
-https://img.shields.io/badge/PRs-welcome-brightgreen.svg
 
 📋 Description
 AI Project Instructions is a comprehensive collection of professional development standards, guidelines, and best practices designed to transform any AI agent (OpenCode, Cursor, Windsurf, GitHub Copilot, etc.) into a consistently professional developer across all project types.
@@ -65,7 +61,7 @@ This repository contains 17 meticulously crafted Markdown files that cover every
 Installation
 bash
 # Clone the repository
-git clone https://github.com/yourusername/ai-project-instructions.git
+git clone https://github.com/tgpbaze/ai-project-instructions.git
 
 # Copy to your project
 cp -r ai-project-instructions/.ai/ /path/to/your/project/.ai/
@@ -232,8 +228,7 @@ Email: your-email@example.com
 ⭐ Show Your Support
 If this repository helped you, please give it a star ⭐ and share it with your network!
 
-https://img.shields.io/github/stars/yourusername/ai-project-instructions?style=social
-https://img.shields.io/github/followers/yourusername?label=Follow&style=social
+
 
 Ready to transform your AI development? Copy the .ai/ folder and start building professional software today! 🚀
 
